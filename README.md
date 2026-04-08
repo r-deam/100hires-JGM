@@ -16,7 +16,7 @@ Installed Git for windows to run a code
 Cloned the repository into Cursor via terminal
 Opened the repository in Cursor and wrote this README
 publish the said README
-sent the repo link by email
+sent the required link by email
 
 ***Issues and Troubleshooting***
 Unsure which Claude extensions was required, identified and installed the official "Claude for VS"from Anthropic (verified publisher)
